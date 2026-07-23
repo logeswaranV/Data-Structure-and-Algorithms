@@ -1,3 +1,5 @@
+// Two pointer approach left and right pointer on the opposite side.
+
 public class TwoSumProblem {
 
     public static int[] twoSum(int[] arr, int target) {
